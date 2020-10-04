@@ -1,0 +1,62 @@
+<dict>
+	<key>PayloadContent</key>
+	<dict>
+		<key>com.github.ygini.hello-it</key>
+		<dict>
+			<key>Forced</key>
+			<array>
+				<dict>
+					<key>mcx_preference_settings</key>
+					<dict>
+						<key>content</key>
+						<array>
+							<dict>
+								<key>functionIdentifier</key>
+								<string>public.title</string>
+								<key>settings</key>
+								<dict>
+									<key>title</key>
+									<string>MacSysAdmin 2020</string>
+								</dict>
+							</dict>
+                                                        <dict>
+								<key>functionIdentifier</key>
+								<string>public.title</string>
+								<key>settings</key>
+								<dict>
+									<key>title</key>
+									<string>+31-88-1263-500</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>functionIdentifier</key>
+								<string>public.title</string>
+								<key>settings</key>
+								<dict>
+									<key>title</key>
+									<string>{DeviceAssetNumber}</string>
+								</dict>
+							</dict>
+						</array>
+					</dict>
+				</dict>
+			</array>
+		</dict>
+	</dict>
+	<key>PayloadEnabled</key>
+	<true/>
+	<key>PayloadIdentifier</key>
+	<string>com.hello-it.demo.msademo.nl</string>
+	<key>PayloadType</key>
+	<string>com.apple.ManagedClient.preferences</string>
+	<key>PayloadUUID</key>
+	<string>ef557ed8-0c6a-4631-b7dc-e9d32bdd15bf</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+	<key>PayloadOrganization</key>
+	<string>Workspace ONE</string>
+	<key>PayloadDisplayName</key>
+	<string>Payload 96ECC241-376A-427A-AED5-519CCCCE0E0E</string>
+	<key>PayloadDescription</key>
+	<string>Created by WS1 mobileConfig Importer</string>
+</dict>
